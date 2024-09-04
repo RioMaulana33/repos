@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* resources/css/app.css */
+body {
+    font-family: 'Figtree', sans-serif; /* Gunakan font yang telah ditentukan */
+    background-color: #ffffff; /* Warna latar default */
+    color: #000000; /* Warna teks default */
+  }
+  
+  body.dark-mode {
+    background-color: #1f2937; /* Warna latar gelap */
+    color: #e5e7eb; /* Warna teks terang */
+  }
+  
+  /* Import Font Awesome if not using CDN */
+  @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css');
+  
+  /* Additional custom styles */
+  button i {
+    font-size: 1.5rem; /* Ukuran ikon */
+    transition: transform 0.3s ease, color 0.3s ease;
+  }
+  
+  button:hover i {
+    transform: scale(1.2); /* Membesarkan ikon saat hover */
+    color: #fbbf24; /* Mengubah warna ikon saat hover */
+  }
+  
