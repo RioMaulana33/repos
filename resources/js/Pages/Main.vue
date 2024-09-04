@@ -13,7 +13,7 @@
 
         <!-- Description Section -->
         <div class="md:w-1/2 text-white text-center md:text-left">
-          <h2 class="text-4xl md:text-5xl font-bold mb-6">Website SociaLenz</h2>
+          <h2 class="text-4xl md:text-5xl font-bold mb-6">Website ii</h2>
           <p class="text-base md:text-base mb-8">Website ini adalah platform digital yang dirancang untuk menampilkan, dan menganalisis data sosial dalam berbagai bentuk.mempermudah pengguna untuk memahami informasi melalui data yang mudah dipahami, seperti grafik dan diagram.</p>
           <button class="bg-orange-600 hover:bg-orange-500 text-lg font-semibold py-3 px-6 rounded">Learn More</button>
         </div>
